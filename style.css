@@ -6,13 +6,16 @@ body {
   
 }
 h1 {
-    color: #fdfcfc;
+    color: #ffffff;
     text-align: center;
-    border-bottom: 5px solid #343f2f;
-    border-radius: 0px 0px 10px 10px;
     background-color: #332d2f;
-
-}
+    padding: 5px;
+    
+    
+    border-bottom: 5px solid #343f2f;
+    border-radius: 0px 0px 0px 0px;
+  background-color: #332d2f;
+    }
 h3 {
     color: #030303;
     text-align: center;
